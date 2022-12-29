@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "NavigatorApp.app"
-               BlueprintName = "NavigatorApp"
-               ReferencedContainer = "container:NavigatorApp.xcodeproj">
+               BuildableName = "BooRealApp.app"
+               BlueprintName = "BooRealApp"
+               ReferencedContainer = "container:BooRealApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "NavigatorAppTests.xctest"
-               BlueprintName = "NavigatorAppTests"
-               ReferencedContainer = "container:NavigatorApp.xcodeproj">
+               BuildableName = "BooRealAppTests.xctest"
+               BlueprintName = "BooRealAppTests"
+               ReferencedContainer = "container:BooRealApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "NavigatorApp.app"
-            BlueprintName = "NavigatorApp"
-            ReferencedContainer = "container:NavigatorApp.xcodeproj">
+            BuildableName = "BooRealApp.app"
+            BlueprintName = "BooRealApp"
+            ReferencedContainer = "container:BooRealApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "NavigatorApp.app"
-            BlueprintName = "NavigatorApp"
-            ReferencedContainer = "container:NavigatorApp.xcodeproj">
+            BuildableName = "BooRealApp.app"
+            BlueprintName = "BooRealApp"
+            ReferencedContainer = "container:BooRealApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
