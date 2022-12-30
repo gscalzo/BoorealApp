@@ -1,4 +1,4 @@
-package com.navigatorapp.newarchitecture.components;
+package co.uk.effectivecode.booreal.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

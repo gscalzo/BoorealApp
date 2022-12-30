@@ -1,4 +1,4 @@
-package com.navigatorapp.newarchitecture;
+package co.uk.effectivecode.booreal.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.navigatorapp.BuildConfig;
-import com.navigatorapp.newarchitecture.components.MainComponentsRegistry;
-import com.navigatorapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import co.uk.effectivecode.booreal.BuildConfig;
+import co.uk.effectivecode.booreal.newarchitecture.components.MainComponentsRegistry;
+import co.uk.effectivecode.booreal.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
